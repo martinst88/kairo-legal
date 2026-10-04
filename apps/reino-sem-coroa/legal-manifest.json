@@ -1,0 +1,24 @@
+{
+  "app": "Reino Sem Coroa",
+  "package": "org.kairoworks.reinosemcoroa",
+  "version": "2026-10-04",
+  "source_sha256": "21f9a5f49af97dca38763a2ced52aab6f676bac28d63176d8b267e7c1f620ceb",
+  "documents": [
+    {
+      "id": "privacy",
+      "url": "https://martinst88.github.io/kairo-legal/apps/reino-sem-coroa/privacy/"
+    },
+    {
+      "id": "terms",
+      "url": "https://martinst88.github.io/kairo-legal/apps/reino-sem-coroa/terms/"
+    },
+    {
+      "id": "refunds",
+      "url": "https://martinst88.github.io/kairo-legal/apps/reino-sem-coroa/refunds/"
+    },
+    {
+      "id": "delete-account",
+      "url": "https://martinst88.github.io/kairo-legal/apps/reino-sem-coroa/delete-account/"
+    }
+  ]
+}
