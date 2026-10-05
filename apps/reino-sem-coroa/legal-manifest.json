@@ -1,8 +1,8 @@
 {
   "app": "Reino Sem Coroa",
   "package": "org.kairoworks.reinosemcoroa",
-  "version": "2026-10-04",
-  "source_sha256": "21f9a5f49af97dca38763a2ced52aab6f676bac28d63176d8b267e7c1f620ceb",
+  "version": "2026-10-04-guest",
+  "source_sha256": "bd2ed16a4d6281d497554c1991445047191ba39544a5bb7b8fb7f47790e6226e",
   "documents": [
     {
       "id": "privacy",

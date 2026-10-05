@@ -10,7 +10,7 @@ Reino Sem Coroa é um RPG medieval de fantasia, com campanha, personagens, equip
 
 ## 2. Conta e responsabilidade
 
-Use sua própria Conta Google e mantenha sua segurança. O perfil, os bens e os saldos ficam vinculados à conta identificada no jogo. Não negocie contas, compartilhe credenciais nem se passe por outra pessoa. Um responsável deve acompanhar usuários menores e autorizar compras conforme a legislação e a classificação etária. Procure o suporte se suspeitar de acesso indevido.
+O modo visitante permite jogar a campanha sem uma conta online e salva o progresso somente no aparelho. Esse progresso e seus itens não são importados automaticamente para a conta Google. Para os serviços online e compras quando habilitadas, use sua própria Conta Google e mantenha sua segurança. O perfil online, os bens e os saldos correspondentes ficam vinculados à conta identificada no jogo. Não negocie contas, compartilhe credenciais nem se passe por outra pessoa. Um responsável deve acompanhar usuários menores e autorizar compras conforme a legislação e a classificação etária. Procure o suporte se suspeitar de acesso indevido.
 
 ## 3. Ouro, gemas gratuitas e gemas pagas
 

@@ -1,6 +1,6 @@
 # Reino Sem Coroa — documentos legais
 
-Versão 2026-10-04 · contato admin@kairoworks.org
+Versão 2026-10-04-guest · contato admin@kairoworks.org
 
 - Política de Privacidade: https://martinst88.github.io/kairo-legal/apps/reino-sem-coroa/privacy/
 - Termos de Uso: https://martinst88.github.io/kairo-legal/apps/reino-sem-coroa/terms/

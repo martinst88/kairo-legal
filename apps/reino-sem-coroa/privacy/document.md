@@ -8,13 +8,13 @@ Esta política explica como a Kairo Works trata dados no Reino Sem Coroa, RPG pa
 
 A Kairo Works, identificada como desenvolvedora do Reino Sem Coroa na Google Play, é responsável pelo tratamento dos dados do jogo. Para privacidade, suporte e exercício de direitos, entre em contato pelo e-mail indicado no fim deste documento. Não exigimos documentos pessoais para o uso normal do jogo.
 
-## 2. Conta Google e perfil
+## 2. Modo visitante, Conta Google e perfil
 
-No Android, a entrada usa sua Conta Google e Firebase Authentication. Tratamos o identificador da conta do jogo, e-mail, situação de verificação, dados de autenticação e, quando disponibilizados pelo provedor, nome e imagem de perfil. Você escolhe um nome para sua companhia, registrado com a data de criação. A Kairo Works não recebe a senha da sua Conta Google. O login é necessário para identificar a conta e separar seus dados dos de outras pessoas.
+Você pode jogar a campanha como visitante, sem e-mail, senha ou criação de conta online. O nome da companhia e o progresso desse modo ficam no aparelho. Se optar por entrar com Google, usamos sua Conta Google e Firebase Authentication: tratamos o identificador da conta do jogo, e-mail, situação de verificação, dados de autenticação e, quando disponibilizados pelo provedor, nome e imagem de perfil. Você escolhe um nome para sua companhia, registrado com a data de criação. A Kairo Works não recebe sua senha Google. O login é necessário para os serviços online e compras quando habilitadas, mas não para jogar a campanha como visitante.
 
 ## 3. Progresso e dados no aparelho
 
-Campanha, personagens, formação, equipamentos, configurações de áudio e preferências são armazenados localmente, separados por conta, com cópias de segurança locais. Nesta versão, não há garantia de recuperação integral da campanha após desinstalar, limpar dados ou trocar de aparelho. A carteira online e os bens entregues pelo serviço de compras são conferidos no servidor. Sair da conta não apaga seus dados; desinstalar o jogo não exclui a conta online.
+Campanha, personagens, formação, equipamentos, configurações de áudio e preferências são armazenados localmente, com cópias de segurança locais. O visitante usa um arquivo próprio, separado dos arquivos das contas Google. Entrar com Google não importa nem transfere automaticamente progresso, gemas ou itens do visitante. Não há garantia de recuperação integral da campanha após desinstalar, limpar dados ou trocar de aparelho. A carteira online e os bens entregues pelo serviço de compras são conferidos no servidor. Sair da conta não apaga seus dados; desinstalar o jogo não exclui a conta online.
 
 ## 4. Compras, gemas e assinaturas
 
