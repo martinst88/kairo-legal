@@ -1,6 +1,6 @@
 # Política de Privacidade — Reino Sem Coroa
 
-Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 4 de outubro de 2026
+Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 7 de outubro de 2026
 
 Esta política explica como a Kairo Works trata dados no Reino Sem Coroa, RPG para Android. A versão atual está em preparação para testes; compras e assinaturas dependem de sua habilitação na Google Play. Não vendemos dados pessoais.
 
@@ -14,7 +14,9 @@ Você pode jogar a campanha como visitante, sem e-mail, senha ou criação de co
 
 ## 3. Progresso e dados no aparelho
 
-Campanha, personagens, formação, equipamentos, configurações de áudio e preferências são armazenados localmente, com cópias de segurança locais. O visitante usa um arquivo próprio, separado dos arquivos das contas Google. Entrar com Google não importa nem transfere automaticamente progresso, gemas ou itens do visitante. Não há garantia de recuperação integral da campanha após desinstalar, limpar dados ou trocar de aparelho. A carteira online e os bens entregues pelo serviço de compras são conferidos no servidor. Sair da conta não apaga seus dados; desinstalar o jogo não exclui a conta online.
+Campanha, personagens, formação, equipamentos, mochila, capítulos, vida restante e preferências são armazenados no aparelho. Ao entrar com Google, o jogo também sincroniza um backup privado do progresso com o Firebase para recuperação na mesma conta em outro aparelho. A sincronização ocorre na entrada, periodicamente enquanto o jogo está aberto e pelo menu Progresso na nuvem. Saves divergentes exigem escolha e preservam uma cópia local anterior. Sem internet, o progresso permanece no aparelho; um backup não confirmado pode não ser recuperável após limpar dados ou desinstalar. O visitante usa um arquivo separado e seu progresso não é importado automaticamente para Google. O backup de campanha não autoriza saldos de gemas pagas nem propriedade de itens negociáveis. Sair da conta ou desinstalar não exclui seus dados online.
+
+Quando você salva uma defesa ou participa do leilão, outros jogadores podem ver o nome da companhia, heróis da formação, níveis, ranks, descrições dos anúncios e resultados necessários para essas funcionalidades. Não exibimos seu e-mail Google nesses recursos. O servidor armazena formações, snapshots de partidas, operações do mercado e eventuais inscrições e resultados de torneios para executar partidas, entregar bens uma única vez e conciliar saldos. Gemas e prêmios têm uso exclusivamente dentro do jogo, sem saque ou conversão em dinheiro.
 
 ## 4. Compras, gemas e assinaturas
 

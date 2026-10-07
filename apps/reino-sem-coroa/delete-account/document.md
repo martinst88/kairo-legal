@@ -1,6 +1,6 @@
 # Solicitar exclusão de conta e dados — Reino Sem Coroa
 
-Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 4 de outubro de 2026
+Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 7 de outubro de 2026
 
 Use esta página para solicitar a exclusão da conta do Reino Sem Coroa e dos dados associados, mesmo se já tiver desinstalado o jogo. O atendimento é feito pela Kairo Works por e-mail; abrir esta página ou o aplicativo de e-mail ainda não envia a solicitação nem apaga dados.
 
@@ -14,7 +14,7 @@ Confirmaremos a titularidade com as informações mínimas necessárias antes de
 
 ## 3. Dados abrangidos
 
-A solicitação abrange perfil e nome da companhia, acesso da conta, carteira e vínculos de inventário online, sessões e dados pessoais do atendimento, observadas as exceções justificadas de conservação da Política de Privacidade. Registros mínimos de transações e segurança podem ser conservados pelo tempo necessário a obrigações legais, conciliação, prevenção de fraude e defesa de direitos, com acesso restrito; informaremos categorias, razão e prazo aplicável. Os ciclos de backup dos prestadores podem adiar a remoção de cópias após o processamento.
+A solicitação abrange perfil e nome da companhia, acesso da conta, carteira e vínculos de inventário online, sessões e dados pessoais do atendimento, observadas as exceções justificadas de conservação da Política de Privacidade. Registros mínimos de transações e segurança podem ser conservados pelo tempo necessário a obrigações legais, conciliação, prevenção de fraude e defesa de direitos, com acesso restrito; informaremos categorias, razão e prazo aplicável. Os ciclos de backup dos prestadores podem adiar a remoção de cópias após o processamento. A remoção inclui o backup privado de campanha e as formações online; registros mínimos de operações podem ser conservados nas condições justificadas acima.
 
 ## 4. Assinaturas e bens
 

@@ -1,6 +1,6 @@
 # Termos de Uso — Reino Sem Coroa
 
-Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 4 de outubro de 2026
+Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 7 de outubro de 2026
 
 Estes termos regulam o uso do Reino Sem Coroa, desenvolvido pela Kairo Works. Consulte também a Política de Privacidade e a Política de Compras, Cancelamento e Reembolso antes de entrar na conta ou comprar.
 
@@ -38,7 +38,7 @@ Não use trapaças, adulteração de saldo, exploração deliberada de falhas, a
 
 ## 9. Progresso, manutenção e encerramento
 
-O progresso de campanha desta versão é principalmente local. Limpar dados, desinstalar ou trocar de aparelho pode perder esse progresso; a carteira online não é criada a partir de saldos de uma prévia local. Manutenção e falhas podem interromper serviços. Não oferecemos funcionamento ininterrupto nem armazenamento local permanente. Se uma mudança afetar benefícios pagos, serão observadas a oferta contratada e as soluções e direitos aplicáveis. A condição de teste não afasta responsabilidade por falhas ou direitos do consumidor.
+O visitante depende do armazenamento local. Contas Google têm backup privado da campanha quando a sincronização é confirmada; verifique o estado no menu Progresso na nuvem antes de trocar de aparelho. Falhas de rede e conflitos podem exigir nova tentativa ou escolha da campanha. A carteira online não é criada a partir de saldos locais. Manutenção e falhas podem interromper serviços. Não oferecemos funcionamento ininterrupto nem armazenamento local permanente. Mudanças que afetem benefícios pagos observarão a oferta contratada e as soluções e direitos aplicáveis. A condição de teste não afasta responsabilidade por falhas ou direitos do consumidor.
 
 ## 10. Direitos legais e documentos
 
