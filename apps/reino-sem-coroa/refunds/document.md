@@ -1,6 +1,6 @@
 # Política de Compras, Cancelamento e Reembolso — Reino Sem Coroa
 
-Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 7 de outubro de 2026
+Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 8 de outubro de 2026
 
 Esta política diferencia compras avulsas de gemas ou personagens, uso de itens virtuais e assinaturas mensais do Reino Sem Coroa. Cancelar a renovação, desfazer uma ação dentro do jogo e obter reembolso de um pagamento são procedimentos diferentes.
 
@@ -54,3 +54,4 @@ admin@kairoworks.org
 - [Lei Geral de Proteção de Dados](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
 - [Privacidade e conservação no Firebase](https://firebase.google.com/support/privacy)
 - [Política de Privacidade do Google](https://policies.google.com/privacy?hl=pt-BR)
+- [Google Mobile Ads — divulgação de dados](https://developers.google.com/admob/android/privacy/play-data-disclosure)

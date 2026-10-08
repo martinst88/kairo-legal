@@ -1,6 +1,6 @@
 # Termos de Uso — Reino Sem Coroa
 
-Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 7 de outubro de 2026
+Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 8 de outubro de 2026
 
 Estes termos regulam o uso do Reino Sem Coroa, desenvolvido pela Kairo Works. Consulte também a Política de Privacidade e a Política de Compras, Cancelamento e Reembolso antes de entrar na conta ou comprar.
 
@@ -54,3 +54,4 @@ admin@kairoworks.org
 - [Lei Geral de Proteção de Dados](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
 - [Privacidade e conservação no Firebase](https://firebase.google.com/support/privacy)
 - [Política de Privacidade do Google](https://policies.google.com/privacy?hl=pt-BR)
+- [Google Mobile Ads — divulgação de dados](https://developers.google.com/admob/android/privacy/play-data-disclosure)

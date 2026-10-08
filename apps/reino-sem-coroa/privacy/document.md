@@ -1,6 +1,6 @@
 # Política de Privacidade — Reino Sem Coroa
 
-Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 7 de outubro de 2026
+Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 8 de outubro de 2026
 
 Esta política explica como a Kairo Works trata dados no Reino Sem Coroa, RPG para Android. A versão atual está em preparação para testes; compras e assinaturas dependem de sua habilitação na Google Play. Não vendemos dados pessoais.
 
@@ -28,7 +28,9 @@ Firebase App Check e Google Play Integrity verificam a autenticidade do aplicati
 
 ## 6. Publicidade e métricas
 
-A versão que acompanha estes documentos não exibe anúncios, não integra AdMob nem Crashlytics e mantém a coleta do Firebase Analytics desativada, inclusive a coleta de identificador de publicidade. A presença de um SDK como dependência não autoriza coleta adicional. Se esses recursos forem incorporados futuramente, atualizaremos os documentos e as declarações da loja e solicitaremos consentimento quando necessário.
+O jogo oferece vídeos opcionais com recompensas de campanha pelo Google AdMob. Na fase de QA usamos anúncios de teste. O Google Mobile Ads SDK pode coletar e compartilhar endereço IP (inclusive para estimar localização aproximada), interações como abertura, toques e visualização de vídeos, informações de desempenho e diagnóstico e identificadores do aparelho ou da conta, como App Set ID. Esses dados são usados para publicidade, análise e prevenção de fraude, com transporte criptografado. Removemos a permissão Android AD_ID; o jogo não coleta esse identificador de publicidade e mantém Firebase Analytics desativado, sem integrar Crashlytics. Anúncios não personalizados ainda podem tratar dados técnicos.
+
+Usamos a plataforma de consentimento do Google antes de solicitar anúncios e oferecemos opções de privacidade em Configurações quando exigidas. As recompensas, limites diários e comprovantes de conclusão ficam no progresso da campanha e no armazenamento privado para evitar perda ou duplicação; esses comprovantes não autorizam gemas pagas nem compras. Assistir é opcional e não condiciona o acesso à campanha. Consulte também a Política de Privacidade do Google.
 
 ## 7. Finalidades e bases legais
 
@@ -36,7 +38,7 @@ Usamos os dados necessários para prestar o serviço solicitado, operar a conta 
 
 ## 8. Prestadores e compartilhamento
 
-Utilizamos Google/Firebase e Google Cloud para autenticação, banco de dados, funções e segurança, e Google Play para compras e assinaturas. Cada prestador recebe os dados necessários à sua função, conforme os contratos e políticas aplicáveis. Informações podem ser comunicadas a autoridades quando legalmente exigidas e utilizadas para suporte e defesa de direitos. Não oferecemos seus dados a anunciantes nem publicamos seu e-mail ou comprovantes de compra. Serviços desses prestadores podem processar dados fora do Brasil, sob as salvaguardas aplicáveis à transferência internacional.
+Utilizamos Google/Firebase e Google Cloud para autenticação, banco de dados, funções e segurança, Google Play para compras e assinaturas e Google AdMob para anúncios, consentimento e prevenção de fraude publicitária. Cada prestador recebe os dados necessários à sua função, conforme os contratos, as escolhas aplicáveis e as práticas descritas nesta política. Informações podem ser comunicadas a autoridades quando legalmente exigidas e utilizadas para suporte e defesa de direitos. Não vendemos dados pessoais nem publicamos seu e-mail ou comprovantes de compra. Serviços desses prestadores podem processar dados fora do Brasil, sob as salvaguardas aplicáveis à transferência internacional.
 
 ## 9. Proteção e conservação
 
@@ -64,3 +66,4 @@ admin@kairoworks.org
 - [Lei Geral de Proteção de Dados](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
 - [Privacidade e conservação no Firebase](https://firebase.google.com/support/privacy)
 - [Política de Privacidade do Google](https://policies.google.com/privacy?hl=pt-BR)
+- [Google Mobile Ads — divulgação de dados](https://developers.google.com/admob/android/privacy/play-data-disclosure)
