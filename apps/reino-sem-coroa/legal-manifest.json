@@ -1,24 +1,41 @@
 {
-  "app": "Reino Sem Coroa",
-  "package": "org.kairoworks.reinosemcoroa",
-  "version": "2026-10-10-local-campaign",
-  "source_sha256": "92a0f1280d7fe163289f4e0dfebd5092f6dc2959823c015f70f84255301f788d",
+  "version": "2026-10-11-monthly-vip",
   "documents": [
     {
-      "id": "privacy",
-      "url": "https://martinst88.github.io/kairo-legal/apps/reino-sem-coroa/privacy/"
+      "document": "privacy",
+      "sha256": "95fbd777641f0e051dd3413dd4010892304c5534ff2b55aa18ab24c417037012",
+      "languages": [
+        "pt-BR",
+        "en",
+        "es"
+      ]
     },
     {
-      "id": "terms",
-      "url": "https://martinst88.github.io/kairo-legal/apps/reino-sem-coroa/terms/"
+      "document": "terms",
+      "sha256": "5412875b9ce9996045adeace7dc4730916e998c470a8c0b40854a9096b58479a",
+      "languages": [
+        "pt-BR",
+        "en",
+        "es"
+      ]
     },
     {
-      "id": "refunds",
-      "url": "https://martinst88.github.io/kairo-legal/apps/reino-sem-coroa/refunds/"
+      "document": "refunds",
+      "sha256": "dd2bd0c7754fbd80f2f617020377ae3febaa95dfd95a1e20ae5472cbd8c522ba",
+      "languages": [
+        "pt-BR",
+        "en",
+        "es"
+      ]
     },
     {
-      "id": "delete-account",
-      "url": "https://martinst88.github.io/kairo-legal/apps/reino-sem-coroa/delete-account/"
+      "document": "delete-account",
+      "sha256": "2b2fd3a16959a8840c0bac284288a3b9195c5c1410da7c58d01eced7198d4a78",
+      "languages": [
+        "pt-BR",
+        "en",
+        "es"
+      ]
     }
   ]
 }

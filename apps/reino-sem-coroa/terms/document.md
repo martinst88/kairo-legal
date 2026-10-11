@@ -1,6 +1,4 @@
-# Termos de Uso — Reino Sem Coroa
-
-Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 10 de outubro de 2026
+# Termos de Uso · pt-BR
 
 Estes termos regulam o uso do Reino Sem Coroa, desenvolvido pela Kairo Works. Consulte também a Política de Privacidade e a Política de Compras, Cancelamento e Reembolso antes de entrar na conta ou comprar.
 
@@ -38,20 +36,96 @@ Não use trapaças, adulteração de saldo, exploração deliberada de falhas, a
 
 ## 9. Progresso, manutenção e encerramento
 
-A campanha fica no aparelho por padrão. Limpar os dados, desinstalar ou perder o aparelho pode apagar o progresso. A carteira e os comprovantes de compras permanecem separados no servidor. O backup privado será opcional por assinatura verificada, ainda indisponível; não há promessa de recuperação de progresso que nunca foi enviado. Ao expirar, os envios param e a campanha local permanece. Manutenções e alterações dos serviços serão comunicadas pelos canais disponíveis, respeitando direitos legais do consumidor.
+O jogo grátis mantém a campanha no aparelho. Os dois combos mensais incluem backup enquanto ativos e verificados, sem anúncios automáticos entre batalhas. Comprar apenas gemas ou outros produtos avulsos não inclui backup. O Essencial permite resgatar 100 gemas roxas por dia; o Real, 250 e uma caixa diária. É necessário resgatar a cada dia; dias não resgatados não acumulam. Uma caixa entrega um resultado: 60% arma (rank aleatório, qualidade normal), 10% três couros finos, 10% três couros grossos, 10% três escamas ou 10% duas poções de cura menores. A seleção entre as 60 armas é uniforme; as probabilidades de todos os ranks são exibidas na oferta antes da contratação. Tomo básico: 20.000 de ouro ou 200 gemas azuis. Tomo VIP: 100 gemas roxas, heroína de rank B ou superior; usar dez tomos juntos invoca onze heroínas, com possibilidade de repetição. Chances de personagens, rank e qualidade são exibidas antes do gasto. Preços mensais, moeda, recorrência e condições de cancelamento vêm da Google Play. Cancelar normalmente impede a próxima renovação e mantém os benefícios até o fim do período verificado; suspensão, expiração ou estorno podem encerrar o direito. Vídeos de recompensa são opcionais. No modo grátis pode haver um anúncio no retorno a cada três batalhas concluídas, sem interromper uma ação de combate. Não há promessa de recuperação de dados não enviados. Mantemos os direitos legais do consumidor.
 
 ## 10. Direitos legais e documentos
 
 Aplicam-se a legislação e as regras obrigatórias da plataforma. Nenhuma cláusula limita direitos irrenunciáveis, afasta responsabilidade legal ou impede o acesso aos órgãos de defesa do consumidor e ao foro competente. A política de compras integra estes termos e a política de privacidade explica o tratamento de dados; esta última não substitui consentimento específico quando exigido. A versão e a data de cada documento ficam disponíveis no jogo e na Central Legal.
 
-## Contato
+# Terms of Use · en
 
-admin@kairoworks.org
+These terms govern use of Reino Sem Coroa, developed by Kairo Works. Also consult the Privacy Policy and the Purchases, Cancellation and Refund Policy before signing in or purchasing.
 
-- [Reembolsos na Google Play](https://support.google.com/googleplay/answer/15574908?hl=pt-BR)
-- [Gerenciar e cancelar assinaturas](https://support.google.com/googleplay/answer/7018481?hl=pt-BR)
-- [Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm)
-- [Lei Geral de Proteção de Dados](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm)
-- [Privacidade e conservação no Firebase](https://firebase.google.com/support/privacy)
-- [Política de Privacidade do Google](https://policies.google.com/privacy?hl=pt-BR)
-- [Google Mobile Ads — divulgação de dados](https://developers.google.com/admob/android/privacy/play-data-disclosure)
+## 1. Service and permitted use
+
+Reino Sem Coroa is a medieval fantasy RPG with a campaign, characters, equipment and optional digital purchases when enabled. You receive a personal, limited, non-exclusive license to use the game under these terms and platform rules. Art, music, text and software remain protected by their owners' rights. The QA version is provided for testing and may be adjusted before commercial launch.
+
+## 2. Account and responsibility
+
+Guest mode allows campaign play without an online account and saves progress only on the device. This progress and its items are not automatically imported into a Google account. For online services and purchases when enabled, use your own Google Account and keep it secure. The online profile, goods and corresponding balances are linked to the account identified in the game. Do not trade accounts, share credentials or impersonate others. A guardian must supervise minors and authorize purchases according to the law and age rating. Contact support if you suspect unauthorized access.
+
+## 3. Gold, blue gems and purple gems
+
+Gold is earned in the campaign. Blue gems come from rewards; purple gems come from purchases or subscription benefits confirmed by the service. Balances are displayed separately. In offers accepting both, blue gems are used first unless purple-gem-only use is clearly indicated. These elements are entertainment credits for use in Reino Sem Coroa: they are not money, investments or bank credit and cannot be withdrawn, converted to cash or used outside the game. No player marketplace or transfers are enabled in this version.
+
+## 4. One-time purchases and characters
+
+The final price, currency, quantity and any discount are those displayed by Google Play before purchase confirmation. A one-time gem or character pack is not a subscription and has no renewal to cancel. Delivery requires confirmed payment. The game has no automatic exchange or return for a simple change of preference after correct delivery, especially after spending gems, receiving characters or consuming copies in fusion. This does not remove statutory refunds, platform-approved refunds or support for faults. Consult the purchase policy. The QA starter pack delivers three fixed grade F copies of Mireya Knox, without a random draw.
+
+## 5. Monthly combos and daily claims
+
+The basic and premium combos are automatically renewing monthly subscriptions granting respectively 30 and 100 purple gems per claimed day, as shown in the offer. Each combo allows one claim per Brasília calendar date while entitlement is active. You must open the game and claim; missed days do not accumulate retroactively. The combos are independent. Introductory discounts and the later price are disclosed before subscribing; only eligible accounts receive the offer. Accelerated test renewals do not grant extra claims on the same date.
+
+## 6. Subscription cancellation and interruption
+
+You can cancel renewal in Google Play's subscriptions area. Generally, the combo remains available until the paid period ends. Cancellation does not automatically refund that period. Expired, paused, pending or payment-suspended subscriptions do not allow new claims, except during a platform-recognized grace period. Uninstalling the app, signing out or requesting account deletion does not automatically cancel the subscription. Maintaining a subscription is not required to request account deletion.
+
+## 7. Recovery, refunds and adjustments
+
+Refreshing or recovering purchases searches for orders linked to the same account. Declined payments, canceled checkout and pending payments do not deliver gems. A confirmed refund or chargeback may remove the gems, characters and benefits of that transaction, including copies derived from the reversed item. Gems already spent may create a pending gem adjustment and restrict new economic operations until reconciliation. This adjustment does not create an automatic card charge. Players may dispute discrepancies through support; requesting a legitimate refund is not, by itself, fraud.
+
+## 8. Prohibited conduct and measures
+
+Do not use cheats, balance tampering, deliberate exploitation of faults, abusive automation or unauthorized service access. Security measures must be proportionate to the facts and may restrict operations necessary to protect the service. You may request review through support. A restriction does not remove statutory rights concerning purchases, personal data or redress.
+
+## 9. Progress, maintenance and closure
+
+Free play keeps the campaign on the device. Both monthly combos include backup while active and verified, without automatic ads between battles. Standalone gems or other one-time products do not include backup. Essential allows a daily claim of100 purple gems; Royal provides250 and one daily loot box. Claim each day; missed days do not accumulate. A box gives one result:60% weapon (random rank, normal quality),10% three thin hides,10% three thick hides,10% three scales or10% two minor healing potions. Selection among60 weapons is uniform; all rank probabilities are displayed before subscribing. Basic tome:20,000 gold or200 blue gems. VIP tome:100 purple gems, a rank B or higher heroine; using ten tomes together summons eleven heroines, with duplicates possible. Hero, rank and quality odds are displayed before spending. Monthly prices, currency, recurrence and cancellation terms come from Google Play. Cancellation normally prevents renewal and retains benefits through the verified period; suspension, expiration or refunds may end access. Rewarded videos are optional. Free play may show an ad when returning after every three completed battles, without interrupting a combat action. Recovery of data never uploaded is not promised. Statutory consumer rights remain protected.
+
+## 10. Legal rights and documents
+
+Applicable law and mandatory platform rules apply. No clause limits non-waivable rights, excludes legal liability or prevents access to consumer protection authorities and the competent court. The purchase policy forms part of these terms and the privacy policy explains data processing; the latter does not replace specific consent where required. Each document's version and date are available in the game and Legal Center.
+
+# Términos de Uso · es
+
+Estos términos regulan el uso de Reino Sem Coroa, desarrollado por Kairo Works. Consulta también la Política de Privacidad y la Política de Compras, Cancelación y Reembolso antes de entrar en la cuenta o comprar.
+
+## 1. Servicio y uso permitido
+
+Reino Sem Coroa es un RPG medieval de fantasía, con campaña, personajes, equipo y compras digitales opcionales cuando estén habilitadas. Recibes una licencia personal, limitada y no exclusiva para usar el juego conforme a estos términos y las reglas de la plataforma. El arte, música, textos y software siguen protegidos por los derechos de sus titulares. La versión de QA se ofrece para pruebas y puede ajustarse antes del lanzamiento comercial.
+
+## 2. Cuenta y responsabilidad
+
+El modo visitante permite jugar la campaña sin cuenta en línea y guarda el progreso solo en el dispositivo. Ese progreso y sus objetos no se importan automáticamente a la cuenta Google. Para los servicios en línea y compras cuando estén habilitados, usa tu propia Cuenta Google y mantén su seguridad. El perfil en línea, los bienes y los saldos correspondientes quedan vinculados a la cuenta identificada en el juego. No negocies cuentas, compartas credenciales ni suplantes a otras personas. Un responsable debe acompañar a los menores y autorizar compras según la legislación y clasificación por edad. Contacta con soporte si sospechas de un acceso indebido.
+
+## 3. Oro, gemas azules y gemas moradas
+
+El oro se obtiene en la campaña. Las gemas azules provienen de recompensas; las gemas moradas provienen de compras o beneficios de suscripción confirmados por el servicio. Los saldos se muestran separados. En ofertas que aceptan ambas, se usan primero las gemas azules, salvo indicación clara de uso exclusivo de gemas moradas. Estos elementos son créditos de entretenimiento para usar en Reino Sem Coroa: no son dinero, inversión ni crédito bancario y no pueden retirarse, convertirse en dinero ni usarse fuera del juego. Esta versión no tiene mercado ni transferencias entre jugadores habilitados.
+
+## 4. Compras únicas y personajes
+
+El precio final, moneda, cantidad y eventual descuento son los que muestra Google Play antes de confirmar la compra. Una compra única de gemas o un paquete de personajes no es una suscripción y no tiene renovación que cancelar. La entrega depende de un pago confirmado. No hay intercambio ni devolución automática dentro del juego por un simple cambio de preferencia después de una entrega correcta, especialmente tras usar gemas, recibir personajes o consumir copias en fusión. Esto no elimina el reembolso legal, el aprobado por la plataforma ni la atención en caso de fallo. Consulta la política de compras. El paquete inicial de QA entrega tres copias fijas de Mireya Knox de grado F, sin sorteo.
+
+## 5. Combos mensuales y canje diario
+
+Los combos básico y premium son suscripciones mensuales con renovación automática, de respectivamente 30 y 100 gemas moradas por día canjeado, según la oferta mostrada. Cada combo permite un canje por fecha de Brasilia mientras el derecho esté activo. Es necesario abrir el juego y canjear; los días perdidos no se acumulan retroactivamente. Los combos son independientes. Los descuentos introductorios y el precio posterior se informan antes de contratar; solo las cuentas elegibles reciben la oferta. Una renovación de prueba acelerada no concede canjes adicionales en la misma fecha.
+
+## 6. Cancelación e interrupción de suscripción
+
+Puedes cancelar la renovación en el área de suscripciones de Google Play. En general, el combo sigue disponible hasta finalizar el período pagado. La cancelación no reembolsa automáticamente ese período. Las suscripciones vencidas, pausadas, pendientes o suspendidas por pago no permiten nuevos canjes, salvo un período de gracia reconocido por la plataforma. Desinstalar la aplicación, cerrar sesión o solicitar la eliminación de la cuenta no cancela automáticamente la suscripción. No es obligatorio mantener una suscripción para solicitar la eliminación de la cuenta.
+
+## 7. Recuperación, reembolso y ajustes
+
+Actualizar o recuperar compras busca pedidos vinculados a la misma cuenta. El rechazo, cancelación del pago o pago pendiente no entregan gemas. Un reembolso o contracargo confirmado puede retirar las gemas, personajes y beneficios de esa transacción, incluidas copias derivadas del objeto revertido. Las gemas ya gastadas pueden generar un ajuste pendiente en gemas y restringir nuevas operaciones económicas hasta la conciliación. Ese ajuste no crea un cargo automático en la tarjeta. El jugador puede impugnar discrepancias mediante soporte; solicitar un reembolso legítimo no es, por sí mismo, fraude.
+
+## 8. Conductas prohibidas y medidas
+
+No uses trampas, manipulación del saldo, explotación deliberada de fallos, automatización abusiva ni acceso no autorizado a los servicios. Las medidas de seguridad deben ser proporcionales a los hechos y pueden restringir las operaciones necesarias para proteger el servicio. Puedes solicitar revisión mediante soporte. Un bloqueo no elimina los derechos legales sobre compras, datos personales o reparación.
+
+## 9. Progreso, mantenimiento y cierre
+
+El modo gratis mantiene la campaña en el dispositivo. Ambos combos mensuales incluyen copia mientras estén activos y verificados, sin anuncios automáticos entre batallas. Gemas y productos únicos no incluyen copia. El Esencial permite reclamar100 gemas moradas por día; el Real,250 y una caja diaria. Hay que reclamar cada día; los días omitidos no se acumulan. Una caja entrega un resultado:60% arma (rango aleatorio, calidad normal),10% tres cueros finos,10% tres cueros gruesos,10% tres escamas o10% dos pociones de curación menores. La selección entre60 armas es uniforme; todas las probabilidades de rango se muestran antes de contratar. Tomo básico:20.000 de oro o200 gemas azules. Tomo VIP:100 gemas moradas, heroína de rango B o superior; usar diez tomos juntos invoca once heroínas, con posibles duplicados. Las probabilidades de personajes, rango y calidad se muestran antes del gasto. Precios mensuales, moneda, recurrencia y cancelación vienen de Google Play. Cancelar normalmente impide renovar y mantiene beneficios hasta el fin del período verificado; suspensión, expiración o reembolso pueden finalizar el acceso. Los vídeos premiados son opcionales. El modo gratis puede mostrar un anuncio al regresar después de cada tres batallas, sin interrumpir una acción de combate. No se promete recuperar datos no enviados. Se respetan los derechos legales del consumidor.
+
+## 10. Derechos legales y documentos
+
+Se aplican la legislación y las reglas obligatorias de la plataforma. Ninguna cláusula limita derechos irrenunciables, excluye responsabilidad legal ni impide acudir a los organismos de defensa del consumidor y al tribunal competente. La política de compras forma parte de estos términos y la política de privacidad explica el tratamiento de datos; esta última no sustituye al consentimiento específico cuando sea obligatorio. La versión y fecha de cada documento están disponibles en el juego y en la Central Legal.
