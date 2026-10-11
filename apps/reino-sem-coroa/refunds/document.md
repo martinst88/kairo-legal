@@ -1,6 +1,6 @@
 # Política de Compras, Cancelamento e Reembolso — Reino Sem Coroa
 
-Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 8 de outubro de 2026
+Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 10 de outubro de 2026
 
 Esta política diferencia compras avulsas de gemas ou personagens, uso de itens virtuais e assinaturas mensais do Reino Sem Coroa. Cancelar a renovação, desfazer uma ação dentro do jogo e obter reembolso de um pagamento são procedimentos diferentes.
 
@@ -30,11 +30,11 @@ Se o pagamento foi confirmado e o pacote não apareceu, use Atualizar / recupera
 
 ## 7. O que acontece após reembolso ou estorno
 
-Depois de confirmada a reversão do pagamento, retiramos o benefício correspondente para evitar manter uma entrega sem pagamento. Isso pode envolver gemas pagas, personagens, cópias derivadas e direitos da assinatura, conforme o que foi revertido. A reversão não confisca indiscriminadamente compras independentes. Se as gemas daquele pedido já foram gastas, um ajuste de saldo pode permanecer pendente em gemas e restringir novas operações econômicas até a conciliação. Não iniciaremos cobrança automática adicional no cartão por esse ajuste. Você pode pedir explicação e revisão pelo suporte. Uma solicitação legítima de reembolso não caracteriza fraude.
+Depois de confirmada a reversão do pagamento, retiramos o benefício correspondente para evitar manter uma entrega sem pagamento. Isso pode envolver gemas roxas, personagens, cópias derivadas e direitos da assinatura, conforme o que foi revertido. A reversão não confisca indiscriminadamente compras independentes. Se as gemas daquele pedido já foram gastas, um ajuste de saldo pode permanecer pendente em gemas e restringir novas operações econômicas até a conciliação. Não iniciaremos cobrança automática adicional no cartão por esse ajuste. Você pode pedir explicação e revisão pelo suporte. Uma solicitação legítima de reembolso não caracteriza fraude.
 
-## 8. Gemas gratuitas e itens virtuais
+## 8. Gemas azuis e itens virtuais
 
-Gemas gratuitas e ouro não correspondem a um pagamento reembolsável em dinheiro. Todos os saldos e itens são destinados ao entretenimento dentro do jogo e não são sacáveis. Isso não impede correção de erro, cumprimento de oferta ou reparação prevista em lei. A política não autoriza vender contas, gemas ou itens fora do jogo.
+Gemas azuis e ouro não correspondem a um pagamento reembolsável em dinheiro. Todos os saldos e itens são destinados ao entretenimento dentro do jogo e não são sacáveis. Isso não impede correção de erro, cumprimento de oferta ou reparação prevista em lei. A política não autoriza vender contas, gemas ou itens fora do jogo.
 
 ## 9. Testes sem cobrança
 
