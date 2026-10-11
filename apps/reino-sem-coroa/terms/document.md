@@ -1,6 +1,6 @@
 # Termos de Uso — Reino Sem Coroa
 
-Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 8 de outubro de 2026
+Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 10 de outubro de 2026
 
 Estes termos regulam o uso do Reino Sem Coroa, desenvolvido pela Kairo Works. Consulte também a Política de Privacidade e a Política de Compras, Cancelamento e Reembolso antes de entrar na conta ou comprar.
 
@@ -12,9 +12,9 @@ Reino Sem Coroa é um RPG medieval de fantasia, com campanha, personagens, equip
 
 O modo visitante permite jogar a campanha sem uma conta online e salva o progresso somente no aparelho. Esse progresso e seus itens não são importados automaticamente para a conta Google. Para os serviços online e compras quando habilitadas, use sua própria Conta Google e mantenha sua segurança. O perfil online, os bens e os saldos correspondentes ficam vinculados à conta identificada no jogo. Não negocie contas, compartilhe credenciais nem se passe por outra pessoa. Um responsável deve acompanhar usuários menores e autorizar compras conforme a legislação e a classificação etária. Procure o suporte se suspeitar de acesso indevido.
 
-## 3. Ouro, gemas gratuitas e gemas pagas
+## 3. Ouro, gemas azuis e gemas roxas
 
-Ouro é obtido na campanha. Gemas gratuitas provêm de recompensas; gemas pagas provêm de compras ou benefícios de assinatura confirmados pelo serviço. Os saldos aparecem separados. Em ofertas que aceitam ambas, as gemas gratuitas são usadas primeiro, salvo indicação clara de uso exclusivo de pagas. Esses elementos são créditos de entretenimento para uso no Reino Sem Coroa: não são dinheiro, investimento ou crédito bancário e não podem ser sacados, convertidos em dinheiro ou usados fora do jogo. Não há mercado ou transferência entre jogadores habilitados nesta versão.
+Ouro é obtido na campanha. Gemas azuis provêm de recompensas; gemas roxas provêm de compras ou benefícios de assinatura confirmados pelo serviço. Os saldos aparecem separados. Em ofertas que aceitam ambas, as gemas azuis são usadas primeiro, salvo indicação clara de uso exclusivo de gemas roxas. Esses elementos são créditos de entretenimento para uso no Reino Sem Coroa: não são dinheiro, investimento ou crédito bancário e não podem ser sacados, convertidos em dinheiro ou usados fora do jogo. Não há mercado ou transferência entre jogadores habilitados nesta versão.
 
 ## 4. Compras avulsas e personagens
 
@@ -22,7 +22,7 @@ O preço final, a moeda, a quantidade e eventual desconto são os apresentados p
 
 ## 5. Combos mensais e resgate diário
 
-Os combos básico e premium são assinaturas mensais com renovação automática, respectivamente de 30 e 100 gemas pagas por dia resgatado, conforme a oferta exibida. Cada combo permite um resgate por data de Brasília enquanto houver direito ativo. É necessário abrir o jogo e resgatar; dias perdidos não acumulam retroativamente. Os combos são independentes. Descontos introdutórios e o preço posterior são informados antes da contratação; somente contas elegíveis recebem a oferta. Renovação de teste acelerada não dá resgates extras na mesma data.
+Os combos básico e premium são assinaturas mensais com renovação automática, respectivamente de 30 e 100 gemas roxas por dia resgatado, conforme a oferta exibida. Cada combo permite um resgate por data de Brasília enquanto houver direito ativo. É necessário abrir o jogo e resgatar; dias perdidos não acumulam retroativamente. Os combos são independentes. Descontos introdutórios e o preço posterior são informados antes da contratação; somente contas elegíveis recebem a oferta. Renovação de teste acelerada não dá resgates extras na mesma data.
 
 ## 6. Cancelamento e interrupção de assinatura
 
@@ -38,7 +38,7 @@ Não use trapaças, adulteração de saldo, exploração deliberada de falhas, a
 
 ## 9. Progresso, manutenção e encerramento
 
-O visitante depende do armazenamento local. Contas Google têm backup privado da campanha quando a sincronização é confirmada; verifique o estado no menu Progresso na nuvem antes de trocar de aparelho. Falhas de rede e conflitos podem exigir nova tentativa ou escolha da campanha. A carteira online não é criada a partir de saldos locais. Manutenção e falhas podem interromper serviços. Não oferecemos funcionamento ininterrupto nem armazenamento local permanente. Mudanças que afetem benefícios pagos observarão a oferta contratada e as soluções e direitos aplicáveis. A condição de teste não afasta responsabilidade por falhas ou direitos do consumidor.
+A campanha fica no aparelho por padrão. Limpar os dados, desinstalar ou perder o aparelho pode apagar o progresso. A carteira e os comprovantes de compras permanecem separados no servidor. O backup privado será opcional por assinatura verificada, ainda indisponível; não há promessa de recuperação de progresso que nunca foi enviado. Ao expirar, os envios param e a campanha local permanece. Manutenções e alterações dos serviços serão comunicadas pelos canais disponíveis, respeitando direitos legais do consumidor.
 
 ## 10. Direitos legais e documentos
 
