@@ -1,6 +1,6 @@
 # Política de Privacidade — Reino Sem Coroa
 
-Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 8 de outubro de 2026
+Kairo Works · org.kairoworks.reinosemcoroa · Atualizado em 10 de outubro de 2026
 
 Esta política explica como a Kairo Works trata dados no Reino Sem Coroa, RPG para Android. A versão atual está em preparação para testes; compras e assinaturas dependem de sua habilitação na Google Play. Não vendemos dados pessoais.
 
@@ -14,13 +14,13 @@ Você pode jogar a campanha como visitante, sem e-mail, senha ou criação de co
 
 ## 3. Progresso e dados no aparelho
 
-Campanha, personagens, formação, equipamentos, mochila, capítulos, vida restante e preferências são armazenados no aparelho. Ao entrar com Google, o jogo também sincroniza um backup privado do progresso com o Firebase para recuperação na mesma conta em outro aparelho. A sincronização ocorre na entrada, periodicamente enquanto o jogo está aberto e pelo menu Progresso na nuvem. Saves divergentes exigem escolha e preservam uma cópia local anterior. Sem internet, o progresso permanece no aparelho; um backup não confirmado pode não ser recuperável após limpar dados ou desinstalar. O visitante usa um arquivo separado e seu progresso não é importado automaticamente para Google. O backup de campanha não autoriza saldos de gemas pagas nem propriedade de itens negociáveis. Sair da conta ou desinstalar não exclui seus dados online.
+Campanha, personagens, formação, equipamentos, mochila, capítulos, vida restante e preferências ficam no aparelho por padrão, inclusive quando você entra com Google. Desinstalar, limpar os dados ou perder o aparelho pode apagar o progresso local. A carteira de gemas e os registros necessários para verificar compras continuam no servidor, separados da campanha. O backup privado do progresso será um serviço opcional por assinatura; a assinatura ainda não está disponível. Quando disponível e ativa, o backup ocorrerá na entrada, após alterações agrupadas e por comando manual, sem consultas contínuas. A expiração interrompe novos envios e preserva a cópia local. Campanhas divergentes exigem escolha. O backup não autoriza saldo de gemas ou propriedade negociável; dados locais não são importados como créditos financeiros. Sair da conta ou desinstalar não exclui registros online.
 
 Quando você salva uma defesa ou participa do leilão, outros jogadores podem ver o nome da companhia, heróis da formação, níveis, ranks, descrições dos anúncios e resultados necessários para essas funcionalidades. Não exibimos seu e-mail Google nesses recursos. O servidor armazena formações, snapshots de partidas, operações do mercado e eventuais inscrições e resultados de torneios para executar partidas, entregar bens uma única vez e conciliar saldos. Gemas e prêmios têm uso exclusivamente dentro do jogo, sem saque ou conversão em dinheiro.
 
 ## 4. Compras, gemas e assinaturas
 
-Quando as compras estão habilitadas, tratamos identificadores de produto e pedido, comprovantes digitais de compra, vínculo com sua conta, status do pagamento e assinatura, validade, resgates diários, saldos de gemas gratuitas e pagas, entregas e histórico de operações. Esses registros permitem entregar uma compra uma única vez, recuperar pedidos interrompidos e conciliar reembolsos. Comprovantes pendentes também podem ficar no armazenamento privado do aplicativo até sua recuperação. O Google processa o pagamento; a Kairo Works não recebe número completo do cartão, código de segurança nem senha bancária. Na loja de QA, também usamos o e-mail para autorizar testadores.
+Quando as compras estão habilitadas, tratamos identificadores de produto e pedido, comprovantes digitais de compra, vínculo com sua conta, status do pagamento e assinatura, validade, resgates diários, saldos de gemas azuis e roxas, entregas e histórico de operações. Esses registros permitem entregar uma compra uma única vez, recuperar pedidos interrompidos e conciliar reembolsos. Comprovantes pendentes também podem ficar no armazenamento privado do aplicativo até sua recuperação. O Google processa o pagamento; a Kairo Works não recebe número completo do cartão, código de segurança nem senha bancária. Na loja de QA, também usamos o e-mail para autorizar testadores.
 
 ## 5. Segurança e dados técnicos
 
@@ -30,7 +30,7 @@ Firebase App Check e Google Play Integrity verificam a autenticidade do aplicati
 
 O jogo oferece vídeos opcionais com recompensas de campanha pelo Google AdMob. Na fase de QA usamos anúncios de teste. O Google Mobile Ads SDK pode coletar e compartilhar endereço IP (inclusive para estimar localização aproximada), interações como abertura, toques e visualização de vídeos, informações de desempenho e diagnóstico e identificadores do aparelho ou da conta, como App Set ID. Esses dados são usados para publicidade, análise e prevenção de fraude, com transporte criptografado. Removemos a permissão Android AD_ID; o jogo não coleta esse identificador de publicidade e mantém Firebase Analytics desativado, sem integrar Crashlytics. Anúncios não personalizados ainda podem tratar dados técnicos.
 
-Usamos a plataforma de consentimento do Google antes de solicitar anúncios e oferecemos opções de privacidade em Configurações quando exigidas. As recompensas, limites diários e comprovantes de conclusão ficam no progresso da campanha e no armazenamento privado para evitar perda ou duplicação; esses comprovantes não autorizam gemas pagas nem compras. Assistir é opcional e não condiciona o acesso à campanha. Consulte também a Política de Privacidade do Google.
+Usamos a plataforma de consentimento do Google antes de solicitar anúncios e oferecemos opções de privacidade em Configurações quando exigidas. As recompensas, limites diários e comprovantes de conclusão ficam no progresso da campanha e no armazenamento privado para evitar perda ou duplicação; esses comprovantes não autorizam gemas roxas nem compras. Assistir é opcional e não condiciona o acesso à campanha. Consulte também a Política de Privacidade do Google.
 
 ## 7. Finalidades e bases legais
 
