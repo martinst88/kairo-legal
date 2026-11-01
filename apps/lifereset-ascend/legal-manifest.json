@@ -1,0 +1,15 @@
+{
+  "app": "LifeReset Ascend",
+  "developer": "Kairo Works",
+  "version": "2026-11-01-electron-preview",
+  "appVersion": "0.8.0",
+  "language": "pt-BR",
+  "privacyUrl": "https://martinst88.github.io/kairo-legal/apps/lifereset-ascend/privacy/",
+  "termsUrl": "https://martinst88.github.io/kairo-legal/apps/lifereset-ascend/terms/",
+  "contact": {
+    "privacy": "privacy@kairoworks.org",
+    "support": "support@kairoworks.org",
+    "legal": "legal@kairoworks.org"
+  },
+  "scope": "Prévia local Electron; Capacitor posterior; sem conta, anúncios, compras ou IA externa."
+}
