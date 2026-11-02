@@ -18,7 +18,7 @@
 
 <main id="conteudo"><div class="eyebrow">LifeReset Ascend</div><h1>Política de Privacidade</h1>
 
-<div class="meta"><strong>Aplicativo:</strong> LifeReset Ascend<br><strong>Responsável:</strong> Kairo Works<br><strong>Atualização:</strong> 2 de novembro de 2026<br><strong>Escopo:</strong> prévia Electron 0.17.0, sem conta on-line, anúncios ou compras</div>
+<div class="meta"><strong>Aplicativo:</strong> LifeReset Ascend<br><strong>Responsável:</strong> Kairo Works<br><strong>Atualização:</strong> 2 de novembro de 2026<br><strong>Escopo:</strong> prévia Electron 0.18.0, sem conta on-line, anúncios ou compras</div>
 
 <p>Esta política descreve a prévia de avaliação do LifeReset Ascend para Electron. A Kairo Works é responsável pelo aplicativo e pelos canais de atendimento abaixo. A versão funciona com perfil local e dados demonstrativos, sem criação de conta on-line.</p>
 
@@ -50,6 +50,10 @@
 
 <p>A agenda usa o fuso inicial da configuração do sistema, que pode ser alterado por hábito. Dias e fuso são guardados localmente para organizar a rotina e atribuir a data civil aos registros. O aplicativo não solicita localização GPS nem acompanha deslocamentos; viajar não altera automaticamente o fuso salvo. Editar a agenda não reescreve as datas do histórico anterior.</p>
 
+<p><strong>Termômetro de humor:</strong> o novo diálogo Meu humor oferece manhã e noite, com horários e fuso escolhidos, cinco opções textuais e “não sei dizer”. Não exige diário nem altera XP, nível ou constância. Recusar ou não responder não é registrado como humor ruim. O registro pessoal desta prévia é oferecido ao público adulto após escolha explícita; há um exemplo fictício sem pedir nem salvar respostas pessoais. O percurso futuro para adolescentes permanece em preparação. A escolha de público não verifica identidade nem representa autorização jurídica de responsável.</p>
+<p>Humor, horários e preferências de lembrete ficam em registros privados do perfil local. Lembretes opcionais são mostrados apenas dentro do aplicativo, sem notificações do sistema ou envio a terceiros. Não há diagnóstico ou monitoramento em tempo real. Você pode corrigir um momento, remover registros ou remover todo o histórico e horários no próprio diálogo. Recibos técnicos de gravação, com identificadores e hash e sem texto ou valor emocional, podem permanecer até a limpeza completa.</p>
+<p><strong>Agenda por horários:</strong> títulos, datas, início/fim, fuso, marca de atividade realizada e vínculo opcional com ocorrência de hábito organizam compromissos no dispositivo. Não há leitura de contatos ou agenda externa. Agendar ou marcar uma atividade não conclui automaticamente o hábito e não gera XP. Excluir um compromisso remove esse registro, preservando o hábito e seu histórico. Respeite limites de contato e evite nomes ou relatos íntimos de terceiros em títulos.</p>
+
 <h2>3. Armazenamento, segurança e retenção</h2>
 
 <p>Os registros atuais ficam em um banco IndexedDB versionado, no perfil do aplicativo neste dispositivo. As gravações relacionadas são agrupadas em transações; o aplicativo confirma o salvamento quando a transação termina. Em caso de falha, alterações podem permanecer apenas na sessão e o aplicativo oferece nova tentativa ou cópia para recuperação. Não expiram automaticamente: permanecem até você usar a limpeza local ou remover esse perfil de armazenamento. Excluir somente o executável portátil não garante apagar os registros.</p>
@@ -71,6 +75,7 @@
 
 <p>A limpeza exige confirmação, remove os registros do banco, as cópias internas de migração e compatibilidade e a fonte antiga do aplicativo, e reabre o aplicativo sem hábitos cadastrados, mantendo apenas a apresentação ilustrativa da prévia. A remoção do banco é transacional; a remoção da fonte antiga ocorre em uma etapa complementar. Se essa etapa falhar, a abertura dos registros fica bloqueada até concluir a limpeza, impedindo a reimportação dos dados antigos. O aplicativo informa a falha e permite nova tentativa. Não há promessa de apagamento forense do disco. Downloads, cópias na área de transferência e backups guardados fora do aplicativo não são apagados por essa ação. Como não há conta on-line, não existe uma conta remota a excluir, nem cópia de seus registros locais na Kairo Works para recuperá-los.</p>
 
+<p>Meu humor e Agenda por horários têm exportações próprias em JSON: incluem respectivamente os registros/horários de humor ou todas as atividades da agenda deste perfil. Esses arquivos são privados, sem criptografia adicional e não restauram hábitos ou o livro de XP. A limpeza completa inclui os novos registros. Arquivos já exportados, inclusive cópias de recuperação com esses dados, permanecem fora do controle da limpeza.</p>
 <h2>5. Permissões e conexões</h2>
 
 <p>Esta prévia Electron não solicita acesso a câmera, microfone, localização, contatos, sensores de saúde ou contas financeiras. Solicitações de permissão, inclusive notificações do sistema, são bloqueadas nesta versão. Avisos dentro do aplicativo continuam disponíveis. Respostas de corpo e alimentação são digitadas por você.</p>
