@@ -1,0 +1,17 @@
+{
+  "app": "Better human",
+  "previousName": "LifeReset Ascend",
+  "developer": "Kairo Works",
+  "version": "2026-11-02-android-test",
+  "appVersion": "0.19.0",
+  "androidPackage": "org.kairoworks.betterhuman",
+  "language": "pt-BR",
+  "privacyUrl": "https://martinst88.github.io/kairo-legal/apps/better-human/privacy/",
+  "termsUrl": "https://martinst88.github.io/kairo-legal/apps/better-human/terms/",
+  "adsMode": "google-test-ids-opt-in-adults-only",
+  "contact": {
+    "privacy": "privacy@kairoworks.org",
+    "support": "support@kairoworks.org",
+    "legal": "legal@kairoworks.org"
+  }
+}
